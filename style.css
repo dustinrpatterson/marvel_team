@@ -1,0 +1,28 @@
+.card{
+  height: 300px;
+  width: 300px;
+  background: #ccc;
+  border: 1px solid #000;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+
+.btn-success{
+  background: green;
+  color: white;
+}
+
+
+.btn-danger{
+  background: red;
+  color: white;
+}
+
+#my-characters{
+  background: cornsilk;
+}
+
+#marvel-characters{
+  background: magenta;
+}
