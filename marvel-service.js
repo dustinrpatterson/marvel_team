@@ -1,6 +1,6 @@
 function MarvelService(){
   var key = '?apikey=e44062bbc76b37176b08325d5265a0f3';
-  var baseUrl = 'http://gateway.marvel.com/v1/public/'
+  var baseUrl = 'https://gateway.marvel.com/v1/public/'
   
   var dataStore = this;
   var _marvelCharacters = [];
